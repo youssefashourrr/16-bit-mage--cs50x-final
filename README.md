@@ -47,8 +47,6 @@ That said, I chose to stay within the scope, core features, and timeframe I init
 - [Classic](https://github.com/rxi/classic)
 - [anim8](https://github.com/kikito/anim8)
 
-[Back To The Top](#read-me-template)
-
 ---
 
 ## Installation and Setup
@@ -84,8 +82,6 @@ love .
     - (This was the same extension I used during development)
 3. Run the game by pressing the extension's run keybinds.
     - The default is **ALT + L** for Windows and **CMD + L** for MacOS
-
-[Back To The Top](#read-me-template)
 
 ---
 
@@ -128,14 +124,10 @@ This project uses the following open-source assets; I possess zero artistic/desi
 - [Background](https://www.deviantart.com/txturs/art/Grass-Pixel-Art-Textures-512954148)
 - [SFX](https://opengameart.org/content/512-sound-effects-8-bit-style)
 
-
-[Back To The Top](#read-me-template)
-
 ---
 
 ## Author Info
 
 - Linkedin - [Youssef Ashour](www.linkedin.com/in/youssef-ashour-596476310)
 - Discord - [youssef.ashour](discordapp.com/users/428473626967146497)
-
-[Back To The Top](#read-me-template)
+  
