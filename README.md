@@ -117,6 +117,7 @@ love .
 ---
 
 ## Assets
+
 This project uses the following open-source assets; I possess zero artistic/design skills.
 - [Mage](https://opengameart.org/content/16x16-mage)
 - [Fireball](https://opengameart.org/content/pixel-art-spells)
@@ -128,6 +129,5 @@ This project uses the following open-source assets; I possess zero artistic/desi
 
 ## Author Info
 
-- Linkedin - [Youssef Ashour](www.linkedin.com/in/youssef-ashour-596476310)
-- Discord - [youssef.ashour](discordapp.com/users/428473626967146497)
-  
+- Linkedin - [Youssef Ashour](https://www.linkedin.com/in/youssef-ashour-596476310)
+- Discord - [youssef.ashour](https://discordapp.com/users/428473626967146497)
