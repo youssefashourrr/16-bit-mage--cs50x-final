@@ -1,7 +1,5 @@
 # 16-Bit Mage ![project image](assets/for-readme/project-image.png)
 
-<br>
-
 ## [Video Demo](https://youtu.be/sGosR8WadHg)
 
 > This is my CS50x Final Project for the year 2024. I chose to follow my personal interest in game development to create a 2D top down shooter inspired by the very popular Vampire Survivors.
